@@ -14,7 +14,7 @@ The "Modifier" box will add a certain amount of time to the result. This is espe
 
 
 CREDITS:
-src/SlushPuppy: Developer
-src/Oxknifer: Lead beta tester
-src/g0goTBC: Beta tester
-src/AprilSR: Beta tester
+- src/SlushPuppy: Developer
+- src/Oxknifer: Lead beta tester
+- src/g0goTBC: Beta tester
+- src/AprilSR: Beta tester
