@@ -1,5 +1,7 @@
+# ![Logo](https://i.imgur.com/svucGlt.png) Slush Puppy's Retime Tool
+
 Hello, user!
-This is Slush Puppy's Retime Tool, designed for precisely retiming speedruns down to the millisecond. Currently, this only works for videos hosted on YouTube.
+This is **S**lush **P**uppy's **R**etime **T**ool, designed for precisely retiming speedruns down to the millisecond. Currently, this only works for videos hosted on YouTube.
 
 
 To use this, first of all find the framerate of the YouTube video you want to retime. Right click the video and click "Stats for nerds", and at the start of the 3rd line (titled "Current / Optimal Res") there will be a resolution followed by @xx, where xx is the framerate of the video. Enter this into the Video FPS box.
