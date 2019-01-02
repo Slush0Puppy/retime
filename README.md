@@ -16,7 +16,7 @@ When you are done, the exact time of the run will be displayed in the box.
 The "Modifier" box will add a certain amount of time to the result. This is especially useful for games with unusual timing methods like Super Mario 64, where the timer is always at exactly 1.33 seconds on the first frame the logo appears. Moderators could set the Start frame to this point and set the Modifier to 1.33.
 
 
-CREDITS:
+####CREDITS:
 - <a href="https://www.speedrun.com/SlushPuppy"><img src="https://www.speedrun.com/themes/user/SlushPuppy/image.png" width=20 height=20> SlushPuppy</a>: Developer
 - <a href="https://www.speedrun.com/Oxknifer"><img src="https://www.speedrun.com/themes/user/Oxknifer/image.png" width=20 height=20> Oxknifer</a>: Lead beta tester
 - <a href="https://www.speedrun.com/g0goTBC"><img src="http://www.cityrider.com/fixed/43aspect.png" width=20 height=20> g0goTBC</a>: Beta tester
