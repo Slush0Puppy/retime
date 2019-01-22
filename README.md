@@ -4,6 +4,8 @@ This is **S**lush **P**uppy's **R**etime **T**ool, designed for precisely retimi
 
 ![GUI](https://i.imgur.com/gRf9fz8.png)
 
+&nbsp;
+
 To use this, first of all find the framerate of the YouTube video you want to retime. Right click the video and click "Stats for nerds", and at the start of the 3rd line (titled "Current / Optimal Res") there will be a resolution followed by @xx, where xx is the framerate of the video. Enter this into the Video FPS box.
 
 Next, find the first frame of the run. By using the , and . keys, you can advance one frame at a time to find the exact point. When you have found it, right click and select "Copy debug info", then paste it into the "Start frame" box or click the arrow next to it.
