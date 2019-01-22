@@ -11,14 +11,16 @@ Do the same for the end frame.
 
 When you are done, the exact time of the run will be displayed in the box, where it can be copied with the clipboard button or entered into speedrun.com.
 
+&nbsp;
 
 The "Modifier" box will add a certain amount of time to the result. This is especially useful for games with unusual timing methods like Super Mario 64, where the timer is always at exactly 1.33 seconds on the first frame the logo appears. Moderators could set the Start frame to this point and set the Modifier to 1.33.
 
 The message icon will copy custom mod note to the user's clipboard. This can be used to show the start and end times to ensure that the timing is clear. This message can be edited in source\mod message\message.txt, with phrases <start>, <end>, <result>, <framerate>, and <modifier> being replaced with their respective variables.
 
+&nbsp;
 
 ### CREDITS:
-- <a href="https://www.speedrun.com/SlushPuppy"><img src="https://www.speedrun.com/themes/user/SlushPuppy/image.png" width=20 height=20> SlushPuppy</a>: Developer
+- <a href="https://www.speedrun.com/SlushPuppy"><img src="https://www.speedrun.com/themes/user/SlushPuppy/image.png" width=20 height=20> SlushPuppy</a>: Developer and graphic designer
 - <a href="https://www.speedrun.com/Oxknifer"><img src="https://www.speedrun.com/themes/user/Oxknifer/image.png" width=20 height=20> Oxknifer</a>: Lead beta tester
 - <a href="https://www.speedrun.com/g0goTBC"><img src="http://www.cityrider.com/fixed/43aspect.png" width=20 height=20> g0goTBC</a>: Beta tester
 - <a href="https://www.speedrun.com/AprilSR"><img src="https://www.speedrun.com/themes/user/AprilSR/image.png" width=20 height=20> AprilSR</a>: Beta tester
