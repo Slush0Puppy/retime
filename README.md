@@ -3,7 +3,7 @@
 Hello, user!
 This is **S**lush **P**uppy's **R**etime **T**ool, designed for precisely retiming speedruns down to the millisecond. You can enter the input times manually or use the method described for YouTube videos:
 
-![GUI](https://i.imgur.com/tVRJLtI.png)
+![GUI](https://i.imgur.com/gRf9fz8.png)
 
 To use this, first of all find the framerate of the YouTube video you want to retime. Right click the video and click "Stats for nerds", and at the start of the 3rd line (titled "Current / Optimal Res") there will be a resolution followed by @xx, where xx is the framerate of the video. Enter this into the Video FPS box.
 
