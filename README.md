@@ -17,7 +17,7 @@ When you are done, the exact time of the run will be displayed in the box, where
 
 The "Modifier" box will add a certain amount of time to the result. This is especially useful for games with unusual timing methods like Super Mario 64, where the timer is always at exactly 1.33 seconds on the first frame the logo appears. Moderators could set the Start frame to this point and set the Modifier to 1.33.
 
-The message icon will copy custom mod note to the user's clipboard. This can be used to show the start and end times to ensure that the timing is clear. This message can be edited in source\mod message\message.txt, with phrases <start>, <end>, <result>, <framerate>, and <modifier> being replaced with their respective variables.
+The message icon will copy custom mod note to the user's clipboard. This can be used to show the start and end times to ensure that the timing is clear. This message can be edited in source\mod message\message.txt, with phrases \<start>, \<end>, \<result>, \<framerate>, and \<modifier> being replaced with their respective variables.
 
 &nbsp;
 
