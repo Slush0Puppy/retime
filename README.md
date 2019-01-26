@@ -1,6 +1,6 @@
 # ![Logo](https://i.imgur.com/FohZNXF.png)  Slush Puppy's Retime Tool
 
-This is **S**lush **P**uppy's **R**etime **T**ool, designed for precisely retiming speedruns down to the millisecond. You can enter the input times manually or use the method described for YouTube videos:
+This is **S**lush **P**uppy's **R**etime **T**ool, designed for precisely retiming speedruns down to the millisecond. You can enter the input times manually or use the method described for YouTube (or Google Drive) videos:
 
 ![GUI](https://i.imgur.com/gRf9fz8.png)
 
