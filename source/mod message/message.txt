@@ -1,0 +1,2 @@
+Mod note: Time starts at <start> and ends at <end>, at <framerate> fps.
+Retimed using SPRT.
