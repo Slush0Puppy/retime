@@ -1,2 +1,1 @@
-Mod note: Time starts at <start> and ends at <end>, at <framerate> fps.
-Retimed using SPRT.
+Mod: Time starts at <start> and ends at <end> at <framerate> fps to get a final time of <result>. Retimed using https://github.com/Slush0Puppy/retime
