@@ -22,7 +22,7 @@ The message icon will copy custom mod note to the user's clipboard. This can be 
 &nbsp;
 
 ### CREDITS:
-- <a href="https://www.speedrun.com/SlushPuppy"><img src="https://www.speedrun.com/themes/user/SlushPuppy/image.png" width=20 height=20> SlushPuppy</a>: Developer and graphic designer
-- <a href="https://www.speedrun.com/Oxknifer"><img src="https://www.speedrun.com/themes/user/Oxknifer/image.png" width=20 height=20> Oxknifer</a>: Lead beta tester
-- <a href="https://www.speedrun.com/g0goTBC"><img src="http://www.cityrider.com/fixed/43aspect.png" width=20 height=20> g0goTBC</a>: Beta tester
-- <a href="https://www.speedrun.com/AprilSR"><img src="https://www.speedrun.com/themes/user/AprilSR/image.png" width=20 height=20> AprilSR</a>: Beta tester
+- <a href="https://www.speedrun.com/users/SlushPuppy"><img src="https://www.speedrun.com/static/user/kj9yqywx/image.png" width=20 height=20> SlushPuppy</a>: Developer and graphic designer
+- <a href="https://www.speedrun.com/users/Oxknifer"><img src="https://www.speedrun.com/static/user/68wlgyzj/image.png" width=20 height=20> Oxknifer</a>: Lead beta tester
+- <a href="https://www.speedrun.com/users/g0goTBC"><img src="https://www.speedrun.com/static/user/48ge292j/image.png" width=20 height=20> g0goTBC</a>: Beta tester
+- <a href="https://www.speedrun.com/users/AprilSR"><img src="https://www.speedrun.com/static/user/qjn1mw8m/image.png" width=20 height=20> AprilSR</a>: Beta tester
